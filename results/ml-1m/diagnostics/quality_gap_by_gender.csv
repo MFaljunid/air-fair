@@ -1,0 +1,3 @@
+dataset,attribute,group,n_users,mean_quality,std_quality,mean_gate_g,relative_gap_vs_dominant,is_dominant
+ml-1m,gender,M,4329,0.9423453673453674,0.07750132667803349,0.06978902780505442,0.0,True
+ml-1m,gender,F,1709,0.9357470447195272,0.0806587755482351,0.07205266208254203,0.08409379822554887,False
